@@ -1,1 +1,0 @@
-﻿Console.WriteLine("2.Örnek");
